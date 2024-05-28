@@ -1,3 +1,37 @@
-body {
-
+body{
+  background-color: #F4F1DE;
+  padding: 30px;
+}
+h1{
+  font-size:400%;
+  letter-spacing: 5px;
+  color: #7B7554;
+  font-family: "Georgia";
+  padding: 20px;
+}
+p{
+  font-size: 175%;
+  color: #7B7554;
+  font-family: "Georgia";
+}
+img{
+  width:400px;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  font-family: "Georgia";
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 20px;
+  color: #7B7554;
+  border: ridge; 
+}
+li a:hover{
+  background-color: #E1EFE6;
+}
 }
